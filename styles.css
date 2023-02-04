@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+Textarea {
+    width : 80%;
+    height : 15vh;
+    display : block;
+    margin : 1rem;
+    padding : 1rem;
+}
